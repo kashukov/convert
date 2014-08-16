@@ -64,7 +64,7 @@ public class Int {
      * @param input int
      * @return float
      */
-    public static float intToInt(int input) {
+    public static float intToFloat(int input) {
         return (float) input;
     }
 

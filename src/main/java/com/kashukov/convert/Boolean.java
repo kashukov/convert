@@ -92,7 +92,7 @@ public class Boolean {
      * @param input boolean
      * @return String
      */
-    public static String booleanToString(boolean input) {
+    public static java.lang.String booleanToString(boolean input) {
         return java.lang.Boolean.toString(input);
     }
 }
