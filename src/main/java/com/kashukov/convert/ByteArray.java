@@ -1,7 +1,7 @@
 package com.kashukov.convert;
 
 /**
- * Convert byte[] (first byte in array) to any primitive data type
+ * Convert byte[] to any primitive data type
  */
 public class ByteArray {
     /**
@@ -85,7 +85,7 @@ public class ByteArray {
     }
 
     /**
-     * Convert byte[] to String (first byte in array)
+     * Convert byte[] to String
      *
      * @param input byte[]
      * @return String
