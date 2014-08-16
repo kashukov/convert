@@ -3,10 +3,10 @@ package com.kashukov;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class ConvertTest {
+public class ConvertBooleanTest {
 
     @Test
-    public void testShortToString() throws Exception {
+    public void testBooleanToByte() throws Exception {
         Assert.assertEquals(1, 1);
     }
 }
