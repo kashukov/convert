@@ -92,7 +92,7 @@ public class Double {
      * @param input double
      * @return String
      */
-    public static String doubleToString(double input) {
+    public static java.lang.String doubleToString(double input) {
         return java.lang.Double.toString(input);
     }
 }

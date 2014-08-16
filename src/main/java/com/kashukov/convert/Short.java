@@ -92,7 +92,7 @@ public class Short {
      * @param input short
      * @return String
      */
-    public static String shortToString(short input) {
+    public static java.lang.String shortToString(short input) {
         return java.lang.Short.toString(input);
     }
 }

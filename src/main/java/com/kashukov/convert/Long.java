@@ -98,7 +98,7 @@ public class Long {
      * @param input long
      * @return String
      */
-    public static String longToString(long input) {
+    public static java.lang.String longToString(long input) {
         return java.lang.Long.toString(input);
     }
 }

@@ -92,7 +92,7 @@ public class Float {
      * @param input float
      * @return String
      */
-    public static String floatToString(float input) {
+    public static java.lang.String floatToString(float input) {
         return java.lang.Float.toString(input);
     }
 }

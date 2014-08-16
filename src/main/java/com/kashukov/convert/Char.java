@@ -92,7 +92,7 @@ public class Char {
      * @param input char
      * @return String
      */
-    public static String charToString(char input) {
+    public static java.lang.String charToString(char input) {
         return Character.toString(input);
     }
 }

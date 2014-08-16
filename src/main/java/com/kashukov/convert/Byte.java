@@ -90,7 +90,7 @@ public class Byte {
      * @param input byte
      * @return String
      */
-    public static String byteToString(byte input) {
+    public static java.lang.String byteToString(byte input) {
         return java.lang.Byte.toString(input);
     }
 }

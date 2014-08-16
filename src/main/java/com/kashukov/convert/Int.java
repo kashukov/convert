@@ -94,7 +94,7 @@ public class Int {
      * @param input int
      * @return String
      */
-    public static String intToString(int input) {
+    public static java.lang.String intToString(int input) {
         return java.lang.Integer.toString(input);
     }
 }

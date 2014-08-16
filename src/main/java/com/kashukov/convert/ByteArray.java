@@ -90,7 +90,7 @@ public class ByteArray {
      * @param input byte[]
      * @return String
      */
-    public static String byteArrayToString(byte[] input) {
-        return new String(input);
+    public static java.lang.String byteArrayToString(byte[] input) {
+        return new java.lang.String(input);
     }
 }
